@@ -5,7 +5,7 @@
 ## I'm a Developer, and Student!
 
 - 🔭 I’m currently working on SmartSites
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React JS & Laravel
 - 📫 How to reach me: pragunbaj99@gmail.com
 - ⚡ Fun fact: I love to play computer games and draw
 
