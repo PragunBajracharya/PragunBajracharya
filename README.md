@@ -5,7 +5,7 @@
 ## I'm a Developer, and Student!
 
 - 🔭 I’m currently working on SmartSites
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: pragunbaj99@gmail.com
 - ⚡ Fun fact: I love to play computer games
 
