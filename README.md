@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/badge/https%3A%2F%2Fpragunbaj.com%2F-UP-lightgrey?style=for-the-badge&color=green)](https://pragunbaj.com)
 
-## I'm a Developer, and Student!
+## I'm a Full Stack Web Developer and Student!
 
-- 🔭 I’m currently working on SmartSites
+- 🔭 I’m currently a Student
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: pragunbaj99@gmail.com
 - ⚡ Fun fact: I love to play computer games
