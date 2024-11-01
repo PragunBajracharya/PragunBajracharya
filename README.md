@@ -1,6 +1,6 @@
 ### Hi there, I'm Pragun Bajracharya 👋
 
-## I'm a Full Stack Web Developer and Student!
+## I'm a Full Stack Web Developer!
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: pragunbaj99@gmail.com
