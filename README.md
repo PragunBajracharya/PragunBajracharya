@@ -1,10 +1,7 @@
 ### Hi there, I'm Pragun Bajracharya 👋
 
-[![Website](https://img.shields.io/badge/https%3A%2F%2Fpragunbaj.com%2F-UP-lightgrey?style=for-the-badge&color=green)](https://pragunbaj.com)
-
 ## I'm a Full Stack Web Developer and Student!
 
-- 🔭 I’m currently a Student
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: pragunbaj99@gmail.com
 - ⚡ Fun fact: I love to play computer games
@@ -12,7 +9,6 @@
 ---
 
 ### Connect With Me
-[<img align="left" alt="pragunbaj.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -47,9 +43,8 @@
 
 </details>
 
-[website]: https://pragunbaj.com
 [twitter]: https://twitter.com/pragunbaj99
 [instagram]: https://www.instagram.com/pragun_bajracharya/
-[linkedin]: https://www.linkedin.com/in/pragun-bajracharya-388b99147/
+[linkedin]: https://www.linkedin.com/in/pragun-bajracharya/
 [facebook]: https://www.facebook.com/BrOkEnSciLeNcE
 [gmail]: mailto:pragunbaj99@gmail.com
